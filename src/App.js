@@ -3,7 +3,7 @@ import './App.css'
 import Quiz from './Quiz'
 
 class App extends Component {
-  render() {
+  render () {
     return (
       <Quiz />
     )
